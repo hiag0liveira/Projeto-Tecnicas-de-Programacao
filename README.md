@@ -1,7 +1,4 @@
-# Projeto Tecnicas de Programacao 
-
-![status do projeto](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-orange)
-
+# Projeto Para prática de Tecnicas em Programacao JAVA
 
 > Codigos retirados das aulas de Tecnicas de Programação.
 ## Descrição
