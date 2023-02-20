@@ -6,7 +6,7 @@ Este prjeto tem o objetivo de estudar a **manipulação, armazenamento e ordena�
 
 Foi feito um sistema que armazena informações de pessoas a partir de um [arquivo csv](https://www.kaggle.com/datasets/imoore/age-dataset?resource=download).
 
-Essas informações são:
+Essas informações são filtradas:
 - Nome 
 - Descricão
 - Gênero
